@@ -16,7 +16,7 @@ Primarily, I like working on computer graphics and related fields. I've written 
 - **Languages used:** [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Rust](https://www.rust-lang.org/), [Haxe](https://haxe.org/)  
 - **Frameworks/Libraries fluent**: [Svelte](https://svelte.dev/), [Vite](https://vitejs.dev/)  
 - **Frameworks/Libraries used**: [React](https://react.dev/) (👎)  
-- ***Languages*** **fluent**: English, ASL  
+- **Natural languages fluent**: English, ASL  
 
 ~ @Unit1208  
 
