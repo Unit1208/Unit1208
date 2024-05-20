@@ -14,7 +14,7 @@ Primarily, I like working on computer graphics and related fields. I've written 
 - **Pronouns:** He/Him
 - **Languages fluent:** [Typescript](https://www.typescriptlang.org/) & [Python](https://www.python.org/)  
 - **Languages used:** [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Rust](https://www.rust-lang.org/), [Haxe](https://haxe.org/)  
-- **Frameworks/Libraries fluent**: [Svelte](https://svelte.dev/), [Vite](https://vitejs.dev/)  
+- **Frameworks/Libraries fluent**: [Svelte](https://svelte.dev/) (👍), [Vite](https://vitejs.dev/)  
 - **Frameworks/Libraries used**: [React](https://react.dev/) (👎)  
 - **Natural languages fluent**: English, ASL  
 
